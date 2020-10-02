@@ -34,10 +34,11 @@ Moderate:
  
  
  Hard
- - 
- Used the solution that will include everything that was in the moderate
- -
- Find the solution to locate the stock by using these three:
+  
+  
+  Used the solution that will include everything that was in the moderate
+
+  Find the solution to locate the stock by using these three:
  
  " Greatest % increase, " Greatest % Decrease" and the greatest total volume".
   
