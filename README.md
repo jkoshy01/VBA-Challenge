@@ -1,16 +1,37 @@
 # VBA Homework - The VBA of Wall Street
 
-## Background
+## Objective
 
-You are well on your way to becoming a programmer and Excel master! In this homework assignment you will use VBA scripting to analyze real stock market data. Depending on your comfort level with VBA, you may choose to challenge yourself with a few of the challenge tasks.
+The Wall Street of VBA by using the stock market analysis by finding the solution in three different ways: Easy, Moderate, and Hard.
 
-### Before You Begin
+The VBA of Wall Street will use a script that will analyze the stock market by focusing on the years 2014-2016.
 
-1. Create a new repository for this project called `VBA-challenge`. **Do not add this homework to an existing repository**.
+Easy: 
+.First you will create a script that will loop through the years of the stock market.
+.Then focus on the total amount of each stock by using the volume over the three years
+.Then you will show the ticker symbol which will correspond with the total volume.
 
-2. Inside the new repository that you just created, add any VBA files you use for this assignment. These will be the main scripts to run for each analysis.
+Here is screenshot analysis for easy 
 
-### Files
+
+
+
+
+
+Moderate:
+ First you will design a script that will loop through all three stocks. Here are the following steps
+ - The yearly change from the stock opened and the year of the closing price
+ - Then find the percent change from what is opened to the year of what is closed
+ - Used the total volume of the stocks
+ - Use the ticker symbol
+ - Highlight the positive in the green and negetive in red by using the conditioning formatting
+ 
+ Hard
+ - Used the solution that will include everything that was in the moderate
+ - Find the solution to locate the stock by using these three:
+ " Greatest % increase, " Greatest % Decrease" and the greatest total volume".
+   Remember to use the script that will run on every sheet
+
 
 * [Test Data](Resources/alphabetical_testing.xlsx) - Use this while developing your scripts.
 
