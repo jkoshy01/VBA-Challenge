@@ -18,6 +18,7 @@ Here is the screenshot analysis for Easy Solution:
  
 
 Moderate:
+ 
  First you will design a script that will loop through all three stocks. Here are the following steps
  
  - The yearly change from the stock opened and the year of the closing price
