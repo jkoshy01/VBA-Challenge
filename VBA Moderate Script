@@ -7,8 +7,8 @@ Sub Moderate()
     Dim yearly_open, yearly_end As Double
     
     total_vol = 0
-    ticker_counter = 2              ' keep track of row to write out ticker summary
-    ticker_open_close_counter = 2   ' keep track of row to save off open and close values
+    ticker_counter = 2              
+    ticker_open_close_counter = 2   
     
     Range("I1").Value = "Ticker"
     Range("J1").Value = "Yearly Change"
