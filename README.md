@@ -14,7 +14,7 @@ Easy:
 
 -Then you will show the ticker symbol which will correspond with the total volume.
 
--Here is the screenshot analysis for Easy Solution:
+
  
 
 
@@ -26,7 +26,7 @@ Moderate:
  
  - Then find the percent change from what is opened to the year of what is closed
  
-  - Used the total volume of the stocks
+ - Used the total volume of the stocks
  
  - Use the ticker symbol
  
@@ -37,11 +37,11 @@ Moderate:
  Hard
   
   
-  Used the solution that will include everything that was in the moderate
+   Used the solution that will include everything that was in the moderate
 
-  -Find the solution to locate the stock by using these three:
+  - Find the solution to locate the stock by using these three:
  
- -" Greatest % increase, " Greatest % Decrease" and the greatest total volume".
+ -  Greatest % increase, " Greatest % Decrease" and the greatest total volume".
   
  - "Remember to use the script that will run on every sheet".
 
