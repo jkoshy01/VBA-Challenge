@@ -6,7 +6,7 @@ Analyzing the stock market by finding the solution in three different ways: Easy
 
 The VBA of Wall Street will use a script that will analyze the stock market by focusing on the years 2014-2016.
 
-Easy: 
+Easy Solution: 
 
 -First you will create a script that will loop through the years of the stock market.
 
@@ -16,15 +16,13 @@ Easy:
 
 
  
-
-
-Moderate:
+Moderate Solution:
  
  First you will design a script that will loop through all three stocks. Here are the following steps
  
- - The yearly change from the stock opened and the year of the closing price
+ - The yearly change from the stock opened price and the year of the closing price
  
- - Then find the percent change from what is opened to the year of what is closed
+ - Then you will find the percent change from the open price in the starting of that year to the closing price at the end of the year
  
  - Used the total volume of the stocks
  
@@ -34,10 +32,10 @@ Moderate:
  
  
  
- Hard
+ Hard Solution
   
   
-   Used the solution that will include everything that was in the moderate
+   Use the solution that will include everything that was in the moderate script
 
   - Find the solution to locate the stock by using these three:
  
