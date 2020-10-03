@@ -8,14 +8,15 @@ The VBA of Wall Street will use a script that will analyze the stock market by f
 
 Easy: 
 
-First you will create a script that will loop through the years of the stock market.
+-First you will create a script that will loop through the years of the stock market.
 
-Then focus on the total amount of each stock by using the volume over the three years
+-Then focus on the total amount of each stock by using the volume over the three years
 
-Then you will show the ticker symbol which will correspond with the total volume.
+-Then you will show the ticker symbol which will correspond with the total volume.
 
-Here is the screenshot analysis for Easy Solution:
+-Here is the screenshot analysis for Easy Solution:
  
+
 
 Moderate:
  
@@ -38,15 +39,12 @@ Moderate:
   
   Used the solution that will include everything that was in the moderate
 
-  Find the solution to locate the stock by using these three:
+  -Find the solution to locate the stock by using these three:
  
- " Greatest % increase, " Greatest % Decrease" and the greatest total volume".
+ -" Greatest % increase, " Greatest % Decrease" and the greatest total volume".
   
-  Remember to use the script that will run on every sheet
+ - "Remember to use the script that will run on every sheet".
 
 
 
 
-### Copyright
-
-Trilogy Education Services © 2019. All Rights Reserved.
